@@ -1,4 +1,18 @@
-## Hi there 👋
+## Hi! 👋 My name is Lena. Welcome! ✌️
+
+## About me
+
+I am programmer from Nizhny Novgorod 💻
+
+I'm interested in java since 2020
+
+My Java expirience since 2024 ⌚
+
+I learn Java at Job4j ☕
+
+## Core technologies:
+
+Java Spring Spring Boot Hibernate PostgreSQL Liquibase Maven Gradle
 
 <!--
 **HelenaBond/HelenaBond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +28,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
