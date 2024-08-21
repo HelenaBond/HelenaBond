@@ -8,8 +8,6 @@ I'm interested in java since 2020
 
 My Java expirience since 2024 ⌚
 
-I learn Java at [Job4j](https://job4j.ru/) ☕
-
 ## Core technologies:
 
 Java, Spring, Spring Boot, Hibernate, PostgreSQL, Mupstruct, Liquibase, SQL, Maven, Gradle
